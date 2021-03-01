@@ -26,7 +26,7 @@ You'll want to configure the **Backup Storage** first as that sets the container
 
 <img :src="$withBase('/files/backupazure3.png')">
 
-I simply gave it a name, used stardard performance and setup replication and location.
+I simply gave it a name, used standard performance and setup replication and location.
 
 Now you'll need to configure a container to store your backup.
 
